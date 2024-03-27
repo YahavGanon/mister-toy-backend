@@ -49,5 +49,19 @@
         "fullname": "yahavon",
         "score": 10000,
         "_id": "FcTPF"
+    },
+    {
+        "username": "puki",
+        "password": "123",
+        "fullname": "pukis",
+        "score": 10000,
+        "_id": "6mGJW"
+    },
+    {
+        "username": "pukis",
+        "password": "123",
+        "fullname": "pukk",
+        "score": 10000,
+        "_id": "EjLdL"
     }
 ]

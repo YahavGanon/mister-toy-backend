@@ -39,3 +39,21 @@
 27.3.2024, 13:21:53 - INFO - Server listening on port http://127.0.0.1:3030/
 27.3.2024, 13:23:00 - INFO - Server listening on port http://127.0.0.1:3030/
 27.3.2024, 13:40:55 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 14:34:41 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 14:59:41 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 15:35:42 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 15:35:54 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 18:49:47 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 18:51:01 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 18:54:15 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 18:56:15 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 18:57:05 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 18:58:12 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 19:01:13 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 19:06:11 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 19:12:15 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 19:43:27 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 19:53:07 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 19:56:22 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 20:11:46 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 20:11:56 - INFO - Server listening on port http://127.0.0.1:3030/
