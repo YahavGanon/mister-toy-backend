@@ -57,3 +57,10 @@
 27.3.2024, 19:56:22 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
 27.3.2024, 20:11:46 - INFO - Server listening on port http://127.0.0.1:3030/
 27.3.2024, 20:11:56 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 20:13:47 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 20:24:27 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+27.3.2024, 21:46:00 - INFO - Server listening on port http://127.0.0.1:3030/
+27.3.2024, 23:19:39 - INFO - loggedinUser toy delete: | {"_id":"ICjhs","fullname":"aviran swissa","score":10000}
+27.3.2024, 23:19:39 - INFO - Toy n7dWD removed
+27.3.2024, 23:52:31 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}
+28.3.2024, 0:03:33 - INFO - user checklogin: | {"_id":"igpYU","fullname":"yahavon","score":10000}

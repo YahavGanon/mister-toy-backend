@@ -63,5 +63,12 @@
         "fullname": "pukk",
         "score": 10000,
         "_id": "EjLdL"
+    },
+    {
+        "username": "aviran",
+        "password": "123",
+        "fullname": "aviran swissa",
+        "score": 10000,
+        "_id": "ICjhs"
     }
 ]
