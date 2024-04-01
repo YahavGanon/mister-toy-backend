@@ -75,7 +75,6 @@ async function add(toy) {
 }
 
 async function update(toy) {
-
     try {
         const toyToSave = {
             title: toy.title,
